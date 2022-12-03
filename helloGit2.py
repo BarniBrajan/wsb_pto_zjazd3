@@ -1,2 +1,2 @@
-msg="Hello Git 2!"
+msg="This is second python file!"
 print(msg)
